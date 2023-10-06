@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Titus</title>
+</head>
+<body>
+  <ul>
+    <li>
+      <a href="index-1.html">Resume</a>
+    </li>
+    <li>
+      <a href="top-5-artists.html">Top 5 artists</a>
+    </li>
+    <li>
+      <a href="car-recommendations.html">Car Recommendations</a>
+    </li>
+  </ul>
+  <h1>RESUME</h1>
+  <h3>Email: tlowe2@hawk.iit.edu</h3>
+  <h3>Website: <a href="https://sites.google.com/cps.edu/titus-lowe/home">Portfolio</a></h3>
+  <h2>EDUCATION</h2>
+  <ul>
+    <li>
+      <p>Chicago Highschool Of Agricultural Science(2020-2024)</p>
+    </li>
+    <li>
+      <p>Harold Washington Community College (Dual Enrollment)</p>
+    </li>
+    <li>
+      <p>Illinois Institute of Technology (Dual Enrollment)</p>
+    </li>
+    <li>
+      <p>Richard J. Daley College (Dual Enrollment)</p>
+    </li>
+  </ul>
+  <h2>WORK</h2>
+  <h3>Summer Intership @School</h3>
+  <p>June 2023 - Aug 2023</p>
+  <p>Chicago, IL</p>
+  <ul>
+    <li>Worked for my school learning how to program the farm bot and teach it how to farm on it's own</li>
+    <li>Worked in a group setting & experiencing different climates and new obstacles</li>
+  </ul>
+  <h3>Construction internship</h3>
+  <p>Summer-Now</p>
+  <ul>
+    <li>I worked my dad to work with different houses like building bathrooms, bedrooms, and even working on different roofs</li>
+  </ul>
+  <h3>Activities Outside Of School</h3>
+  <p>SOCCER,DRIVING,and Listening to Music</p>
+</body>
+</html>
